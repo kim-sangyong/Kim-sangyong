@@ -4,6 +4,18 @@
 
 <div align="center"><br>안녕하세요! 국비지원 학원을 다니며 개발자를 꿈꾸는 김상용입니다!!!</div>
 
+## Tech
+- [jQuery]
+- [Java]
+- [Oracle]
+- [Apache Tomcat]
+- [Spring]
+- [HTML5]
+- [CSS 3]
+- [Java Script]
+- [Eclips]
+
+
 <!--
 **kim-sangyong/Kim-sangyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
