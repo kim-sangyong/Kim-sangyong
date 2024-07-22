@@ -4,7 +4,8 @@
 
 <div align="center"><br>안녕하세요! 국비지원 학원을 다니며 개발자를 꿈꾸는 김상용입니다!!!</div>
 
-## Tech
+## Skill
+| <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 - [jQuery]
 - [Java]
 - [Oracle]
