@@ -5,6 +5,8 @@
 --- 
 <!-- 점선 3개 이용시 선이 생김 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2329ADC6&title_bg=%23111011&icon=obsstudio.svg&icon_color=%23B3C864&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Sang%20yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats) 
 ## 📞 Contact 📞
 ---
 <a href="https://www.instagram.com/kxsxyx__/">
