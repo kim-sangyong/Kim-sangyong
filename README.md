@@ -20,8 +20,9 @@
 <br><br>
 
 ## ✏ Project ✏
+---
 yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트
-  
+<br><br>  
 ## ✨ Tech Stack ✨
 ---
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <br>
