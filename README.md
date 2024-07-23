@@ -20,7 +20,7 @@
 <br><br>
 
 ## ✏ Project ✏
----
+
 - yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트
 <br><br>  
 ## ✨ Tech Stack ✨
