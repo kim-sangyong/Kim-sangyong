@@ -5,8 +5,10 @@
 --- 
 <!-- 점선 3개 이용시 선이 생김 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2329ADC6&title_bg=%23111011&icon=obsstudio.svg&icon_color=%23B3C864&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Sang%20yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats) 
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-sangyong0&count_bg=%2329ADC6&title_bg=%23111011&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/kim-sangyong)
+<br><br>
+[![Sang%20yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sangyong&theme=nord&hide_border=true&count_private=true)](https://github.com/kim-sangyong/github-readme-stats)
+<br><br>
 ## 📞 Contact 📞
 ---
 <a href="https://www.instagram.com/kxsxyx__/">
@@ -14,10 +16,9 @@
 </a>
 <a href="mailto:sdragon0416@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a> <br>
+</a>
+<br><br>
   
-    
-
 ## ✨ Skill ✨
 ---
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <br>
