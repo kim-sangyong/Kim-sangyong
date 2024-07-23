@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 <br><br>
+
+## ✏ Project ✏
+yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트
   
 ## ✨ Tech Stack ✨
 ---
