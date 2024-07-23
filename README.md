@@ -21,7 +21,7 @@
 
 ## ✏ Project ✏
 ---
-yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트
+<p>$\bf{\large{\color{#DD6565}yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트}}$</p>
 <br><br>  
 ## ✨ Tech Stack ✨
 ---
