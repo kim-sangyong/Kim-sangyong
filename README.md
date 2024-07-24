@@ -7,7 +7,7 @@
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-sangyong0&count_bg=%2329ADC6&title_bg=%23111011&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/kim-sangyong)
 <br><br>
-[![Sangyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sangyong&theme=nord&hide_border=true&count_private=true)](https://github.com/kim-sangyong/github-readme-stats)
+[![Kim-sangyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-sangyong&theme=nord&hide_border=true&count_private=true)](https://github.com/kim-sangyong/github-readme-stats)
 <br><br>
 ## 📞 Contact 📞
 
