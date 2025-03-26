@@ -13,23 +13,27 @@
 <br><br>
 ## 📞 Contact 📞
 
-<a href="https://www.instagram.com/kxsxyx__/"> <!-- 내 인스타 아이디, 실제로 인스타 계정으로 들어가짐 -->
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> <!-- 인스타그램 뱃지 -->
-</a>
 <a href="mailto:sdragon0416@gmail.com"> <!-- Gmail 아이디 -->
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> <!-- Gmail 뱃지 -->
 </a>
 <br><br>
 
 ## ✏ Project ✏
-
-- yogiyo(요기요)를 모티브로 한 jogiyo(조기요) 배달 웹 프로젝트
+- Portfolio: 기술 스택을 담은 반응형 웹사이트
+- 바로네 펫샵 : 강아지 분양사이트(반응형 웹사이트)
+- 루나카사-LUNACASA : 직접 구상한 가구사이트(반응형 웹사이트)
+- jogiyo: yogiyo(요기요)를 모티브로한 배달 웹 프로젝트
 <br><br>  
 ## ✨ Tech Stack ✨
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <br>
-
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+- Visual Studio Code
+- React
+- HTML 5
+- SCSS
+- CSS 3
+- JavaScript
+- Adobe Photoshop
+- Figma
 
 
 <!--
